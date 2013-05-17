@@ -1,1 +1,1 @@
-#Ruby on Rails Tutorial: Aample Application
+#Ruby on Rails Tutorial: Sample Application
