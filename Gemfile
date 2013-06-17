@@ -20,6 +20,8 @@ group :test do
   gem 'rb-fsevent', '0.9.3', :require => false
   gem 'growl', '1.0.3'
   gem 'factory_girl_rails', '4.2.1'
+  gem 'cucumber-rails', '1.3.0', :require => false
+  gem 'database_cleaner', github: 'bmabey/database_cleaner'
 end
 
 group :assets do
